@@ -2,8 +2,7 @@
 
 **Desenvolvedor Fullstack** [@iTechTecnologia](https://github.com/Itech-Tecnologia).
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/harlan-cleiton/
-)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harlancleiton/)
 
 Desenvolvedor fullstack, apaixonado por Javascript e todo o seu ecossistema. Graduado em Sistemas de Informação; aluno da turma 11 do GoStack - Rocketseat 🚀
 
