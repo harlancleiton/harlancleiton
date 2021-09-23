@@ -1,6 +1,6 @@
 # ⚡ Harlan Cleiton
 
-**Desenvolvedor Fullstack** [@iTechTecnologia](https://github.com/Itech-Tecnologia).
+**Software Engineer** [Kinvo](https://kinvo.com.br/).
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harlancleiton/)
 
