@@ -1,16 +1,8 @@
-# ⚡ Harlan Cleiton
+# Hi there, I'm Harlan Cleiton
 
-**Software Engineer** [Kinvo](https://kinvo.com.br/).
+I'm a Senior Software Engineer with over 7 years of expirience specializing in backend development, distributed system, and microservices. I'm passionate about build scalable solutions, with a strong focus on Node.js, Golang, Elixir, and Rust.
 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%238f2d07?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harlancleiton/)
-
-Desenvolvedor fullstack, apaixonado por Javascript e todo o seu ecossistema. Graduado em Sistemas de Informação; aluno da turma 11 do GoStack - Rocketseat 🚀
-
-- ⚡ Tentando evoluir constantemente em React, React Native, Node, NestJS e AdonisJS.
-
-- 💬 Colocando em prática metodologias como Clean Code, TDD, DDD, SOLID e alguns Design Patterns.
-
-- 📫 Como me encontrar: _harlancleiton@gmail.com_
+I'm dedicated to applying best practices like DDD (Domain-Driven Design(, TDD (Test-Driven Development), and SOLID principles to create robust and maintainable software. I'm always eager to learn and apply new tecnhnologies.
 
 ```ts
 const coffee = new Coffee();
@@ -22,4 +14,4 @@ if (coffee.isEmpty()) {
 }
 ```
 
-> "O sucesso vem da liberdade de poder fracassar." - Mark Zuckerberg
+> "The biggest risk is not taking any risk." - Mark Zuckerberg
